@@ -4,7 +4,7 @@
 
 [GitHub](https://github.com/igor2000xp/08-Input-Output-twoWayBinding)
 
-[StackBlitz]()
+[StackBlitz](https://stackblitz.com/~/github.com/igor2000xp/08-Input-Output-twoWayBinding)
 
 ***/Volumes/MacUss/Users/__louvre/mentoring-Poland/My-study-projects/StackBlitz/Youri-Simonov-course/08-Input-Output-twoWayBinding/Input-Output-twoWayBinding***
 
